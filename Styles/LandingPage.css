@@ -1,0 +1,45 @@
+.background{
+    height: auto;
+    width: 100%;
+    background-size: cover;
+}
+
+html {
+    scroll-behavior:smooth;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+a.button{
+    display: flex;
+    text-align: center;
+    font-size: x-large;
+    padding: 5pt;
+    position:absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 12px;
+    color:cornsilk ;
+    font-style: italic;
+}
+
+html, body, header, #intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("https://www.3epr.com/wp-content/uploads/2017/02/iStock-535414786.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

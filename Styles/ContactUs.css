@@ -1,0 +1,23 @@
+div.Contact{
+    background-color: purple;
+    color: white;
+    margin-right: 500px;
+    margin-left: 500px;
+    padding: 5pt;
+}
+.ContactImg{
+    width: 250px;
+}
+
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}

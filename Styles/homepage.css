@@ -1,0 +1,42 @@
+h1{
+    color: purple;
+    text-align: center;
+    font-size: xxx-large;
+}
+div.Slogan {
+    color: white;
+    background-color: purple;
+    margin: 30pt;
+    opacity: 40%;
+    padding: 10pt;
+    text-align: center;
+    font-size: large;
+}
+
+h2{
+    text-align: center;  
+}
+
+.navbar {
+    background-color: plum;
+    color: azure;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li{
+    font-size:large;
+    color: white;
+    outline-style: bold;
+    display: inline;
+    margin-right: 8pt;
+}
+  
+.logo{
+    resize: both;
+    height: 50pt;
+    width: auto;
+    justify-content:left;
+}
+

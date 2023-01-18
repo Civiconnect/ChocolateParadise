@@ -1,0 +1,34 @@
+.navbar {
+    background-color: plum;
+    color: azure;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li{
+    font-size:large;
+    color: white;
+    outline-style: bold;
+    display: inline;
+    margin-right: 8pt;
+}
+    
+.logo{
+    resize: both;
+    height: 50pt;
+    width: auto;
+    justify-content:left;
+}
+
+
+@import url('https://fonts.cdnfonts.com/css/milk-and-honey');
+@import url('https://fonts.cdnfonts.com/css/suwannaphum-2');
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Milk and Honey', sans-serif;
+}
+
+p, a, li, span, input, textarea, select, button {
+    font-family: 'Suwannaphum', sans-serif;
+}

@@ -1,0 +1,91 @@
+h1{
+    color: purple;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+h2{
+text-align: center;
+line-height: 4;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 275px;
+    text-align: center; 
+    row-gap: 10px;
+    column-gap: 10px;
+}
+
+div.P1{
+  border: 2px solid black;
+  border-radius: 5%;
+}
+
+div.P2{
+  border: 2px solid black;
+  border-radius: 5%;
+}
+
+div.P3{
+  border: 2px solid black;
+  border-radius: 5%;
+}
+
+div.P4{
+  border: 2px solid black;
+  border-radius: 5%;
+}
+
+div.P5{
+  border: 2px solid black;
+  border-radius: 5%;
+}
+
+div.P6{
+  border: 2px solid black;
+  border-radius: 5%;
+}
+.WhiteChocolate{
+  width: 140px;
+}
+button.WC{
+  display:block;
+  margin: auto;
+}
+.MilkChocolate{
+  width: 140px;
+}
+button.MC{
+  display:block;
+  margin: auto;
+}
+.DarkChocolate{
+  width: 140px;
+}
+button.DC{
+  display:block;
+  margin: auto;
+}
+.HazChocolate{
+  width: 195px;
+}
+button.HC{
+  display:block;
+  margin: auto;
+}
+button.BC{
+  display:block;
+  margin: auto;
+}
+.BitChocolate{
+  width: 195px;
+}
+.RubyChocolate{
+  width: 195px;
+}
+button.RC{
+  display:block;
+  margin: auto;
+}
